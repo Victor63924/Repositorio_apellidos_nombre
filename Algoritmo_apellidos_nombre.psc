@@ -17,7 +17,7 @@ Si n>0 Entonces
 	prom<-acum/n
 	
 	Escribir "El promedio es: ",prom
-SiNo Escribir "Ese valor no es válido, escriba uno mayor que 0"
+SiNo Escribir "Ese valor no es vÃ¡lido, escriba uno mayor que 0"
 
 FinSi
 Hasta Que n>0
